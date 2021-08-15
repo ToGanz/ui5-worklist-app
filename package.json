@@ -12,5 +12,15 @@
   },
   "devDependencies": {
     "@ui5/cli": "^2.0.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToGanz/ui5-worklist-app.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToGanz/ui5-worklist-app/issues"
+  },
+  "homepage": "https://github.com/ToGanz/ui5-worklist-app#readme"
 }
